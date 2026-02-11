@@ -7,6 +7,7 @@ I enjoy problem solving, collaborating with others and taking on new challenges.
 -  **First Aid and CPR** - Lifesaving Society New Brunswick (March 2025)
 -  **Introduction to cybersecurity** - Cisco Networking Academy (December 2025)
 
+
   
   ⚡ Skills I have acquired:
 - **Java (including JavaFX) & C**
